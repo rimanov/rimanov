@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rasul Imanov
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning React
+- 🌱 I like to create cool things
